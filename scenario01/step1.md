@@ -2,6 +2,12 @@ This is your first step.
 
 ## Task
 
-This is an _example_ of creating a scenario and running a **command**
 
-`ls -ali`{{execute}}
+
+
+>>Q1: How to see all running process ?
+[*] ls
+[*] top
+[ ] ps
+[ ] rm
+

@@ -1,6 +1,8 @@
 {
   "title": "Bash Environment",
-  "description": "",
+  "description": "test",
+  "difficulty": "Beginner",
+  "time": "10",
   "details": {
     "steps": [
       {
@@ -12,6 +14,9 @@
         "text": "step2.md"
         }
     ],
+    "intro": {
+        "text": "intro.md"
+      },
     "finish": {
       "text": "finish.md"
     }
