@@ -8,9 +8,5 @@ This is your first step.
 [*] top
 [ ] rm
 
->>Q2: Comment voir quel port est occuper par quel processus ?  <<
+>>Q2: Comment voir quel port est occuper par quel processus ?<<
  =~= netstat
-
-
- >>Q2: Enter the string containing test<<
-=~= test
