@@ -12,6 +12,11 @@
         {
             "title": "Step 2",
             "text": "step2.md"
+        },
+        {
+            "title": "Step 2 - Show Answers",
+            "text": "step2.md",
+            "answer": "step2-verify.md"
         }
     ],
     "intro": {

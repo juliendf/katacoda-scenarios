@@ -1,7 +1,14 @@
-This is an _example_ of creating a scenario and running a **command**
+To provide users with more information or context, a Answer section can be provided. 
 
-`ls -ali`{{execute}}
-
-`ps -aux`{{execute}}
-
-`top`{{execute}}
+Here is the snippet from Step 2 within the `index.json`.
+<pre class="file">
+"details": {
+    "steps": [
+        {
+            "title": "Step 2 - Show Answers",
+            "text": "step2.md",
+            "answer": "step2-answer.md"
+        }
+    ]
+}
+</pre>
