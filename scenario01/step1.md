@@ -10,3 +10,7 @@ This is your first step.
 
 >>Q2: Comment voir quel port est occuper par quel processus ?  <<
  =~= netstat
+
+
+ >>Q2: Enter the string containing test<<
+=~= test
